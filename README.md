@@ -1,27 +1,27 @@
 # Adithya Reddy Geeda — Portfolio
 
-A React portfolio based on [adityasri.in](https://adityasri.in), customized with your details.
+Personal portfolio website showcasing my projects, experience, skills, and certifications.
 
 ## Run Locally
 
 ```bash
-cd "/Users/adithyareddy/Documents/documents/Portfolio"
 npm install
 npm start
 ```
 
-## Build & Deploy
+Open [http://localhost:3000](http://localhost:3000) to view.
+
+## Build
 
 ```bash
 npm run build
 ```
 
-Deploy the `build` folder to:
-- **GitHub Pages**: Push to a repo and enable GitHub Pages, or use `npm run deploy` (update `homepage` in package.json first)
-- **Netlify / Vercel**: Drag the `build` folder or connect your repo
+Deploy the `build` folder to Netlify, Vercel, or GitHub Pages.
 
-## Customize
+## Tech Stack
 
-- **Profile photo**: Replace `src/Assets/aditya-kumar-pic.jpeg` with your photo (keep the same filename, or update the import in `src/data/profile.js`)
-- **Resume link**: Add a Resume button in `src/components/Header.js` with your Google Drive or PDF link
-- **Data**: Edit files in `src/data/` (profile.js, education.js, experience.js, projects.js, skills.js)
+- React
+- Tailwind CSS
+- Framer Motion
+- React Typed
