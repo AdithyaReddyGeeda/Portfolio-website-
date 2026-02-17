@@ -23,7 +23,7 @@ export const projects = [
       'Interactive Gradio dashboard handling 10,000+ queries; 50% faster search, 40% higher engagement.',
     ],
     links: {
-      code: 'https://github.com/AdithyaReddyGeeda',
+      code: 'https://github.com/AdithyaReddyGeeda/Book-Recommandation',
       demo: null,
     },
     tags: ['LLM', 'Gradio', 'Python', 'NLP'],
