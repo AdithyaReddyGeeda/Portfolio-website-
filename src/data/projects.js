@@ -41,6 +41,21 @@ export const projects = [
     },
     tags: ['PyTorch', 'CNN', 'LSTM', 'Streamlit', 'Flask'],
   },
+  {
+    title: 'Financial News Sentiment Predictor',
+    period: 'February 2026',
+    bullets: [
+      'End-to-end ML pipeline scraping financial news from 4 sources (Yahoo Finance, Google News, Reddit, Seeking Alpha) with FinBERT sentiment analysis.',
+      'Universal bidirectional LSTM trained on 25 stocks across 5 sectors; dual prediction heads for direction and return magnitude.',
+      'FAISS vector similarity search over 768-dim FinBERT embeddings for historical headline matching and real-time sentiment shift alerts.',
+      'Interactive 5-tab Streamlit dashboard with live predictions, backtesting, and multi-currency support.',
+    ],
+    links: {
+      code: 'https://github.com/AdithyaReddyGeeda/Financial-news-predictor',
+      demo: null,
+    },
+    tags: ['PyTorch', 'FinBERT', 'LSTM', 'FAISS', 'Streamlit', 'NLP'],
+  },
 ];
 
 
