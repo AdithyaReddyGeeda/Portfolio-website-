@@ -15,20 +15,6 @@ export const projects = [
     tags: ['PyTorch', 'XLM-RoBERTa', 'NLP', 'Streamlit'],
   },
   {
-    title: 'LLM-Powered Intelligent Recommendation Engine & Sales Prediction',
-    period: 'May 2025',
-    bullets: [
-      'Vector-based recommendation engine using LLMs across 6,810 books; 30% lower retrieval latency, 35% higher accuracy.',
-      'Analyzed 1.2M+ words with AI-driven text classification and sentiment analysis; 92% accuracy in emotional insight detection.',
-      'Interactive Gradio dashboard handling 10,000+ queries; 50% faster search, 40% higher engagement.',
-    ],
-    links: {
-      code: 'https://github.com/AdithyaReddyGeeda/Book-Recommandation',
-      demo: null,
-    },
-    tags: ['LLM', 'Gradio', 'Python', 'NLP'],
-  },
-  {
     title: 'Video Action Recognition',
     period: 'Ongoing',
     bullets: [
@@ -71,6 +57,18 @@ export const projects = [
     },
     tags: ['LangExtract', 'Medical NLP', 'Streamlit', 'Gemini', 'Ollama', 'Python'],
   },
+  {
+    title: 'LLM-Powered Intelligent Recommendation Engine & Sales Prediction',
+    period: 'May 2025',
+    bullets: [
+      'Vector-based recommendation engine using LLMs across 6,810 books; 30% lower retrieval latency, 35% higher accuracy.',
+      'Analyzed 1.2M+ words with AI-driven text classification and sentiment analysis; 92% accuracy in emotional insight detection.',
+      'Interactive Gradio dashboard handling 10,000+ queries; 50% faster search, 40% higher engagement.',
+    ],
+    links: {
+      code: 'https://github.com/AdithyaReddyGeeda/Book-Recommandation',
+      demo: null,
+    },
+    tags: ['LLM', 'Gradio', 'Python', 'NLP'],
+  },
 ];
-
-
