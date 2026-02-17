@@ -36,7 +36,7 @@ export const projects = [
       'Flask and Streamlit apps for real-time prediction; UCF-101–style datasets and custom training.',
     ],
     links: {
-      code: 'https://github.com/AdithyaReddyGeeda',
+      code: 'https://github.com/AdithyaReddyGeeda/Video-Action-Recognition',
       demo: null,
     },
     tags: ['PyTorch', 'CNN', 'LSTM', 'Streamlit', 'Flask'],
