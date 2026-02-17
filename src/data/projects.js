@@ -56,6 +56,21 @@ export const projects = [
     },
     tags: ['PyTorch', 'FinBERT', 'LSTM', 'FAISS', 'Streamlit', 'NLP'],
   },
+  {
+    title: 'ClinicalExtract — Medical Information Extraction',
+    period: 'February 2026',
+    bullets: [
+      'Structured extraction from unstructured clinical notes (discharge summaries, radiology reports) using Google LangExtract with precise source grounding.',
+      'Few-shot prompting with no fine-tuning; covers medications, diagnoses, procedures, lab results, symptoms, and allergies.',
+      'Dual LLM support — local models via Ollama (Qwen, LLaMA, Gemma) and cloud via Google Gemini for flexible deployment.',
+      'Streamlit UI with highlighted source spans, JSON/CSV export, and evaluation framework (Precision 0.92, Recall 0.89, F1 0.90).',
+    ],
+    links: {
+      code: 'https://github.com/AdithyaReddyGeeda/Medical-Extraction-Langextract',
+      demo: null,
+    },
+    tags: ['LangExtract', 'Medical NLP', 'Streamlit', 'Gemini', 'Ollama', 'Python'],
+  },
 ];
 
 
