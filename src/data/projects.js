@@ -9,7 +9,7 @@ export const projects = [
       'End-to-end pipeline: tokenization, class-weighted loss, CRF decoding, Streamlit frontend.',
     ],
     links: {
-      code: 'https://github.com/AdithyaReddyGeeda',
+      code: 'https://github.com/AdithyaReddyGeeda/Intent-classification-and-slot-filling',
       demo: null,
     },
     tags: ['PyTorch', 'XLM-RoBERTa', 'NLP', 'Streamlit'],
