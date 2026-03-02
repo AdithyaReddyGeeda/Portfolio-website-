@@ -32,7 +32,7 @@ export const projects = [
   },
   {
     title: 'Video Action Recognition',
-    period: 'Ongoing',
+    period: 'May 2025',
     bullets: [
       'Deep learning pipeline for human action recognition in video (3D CNNs, CNN+LSTM, R3D-18).',
       'Flask and Streamlit apps for real-time prediction; UCF-101–style datasets and custom training.',
@@ -75,7 +75,7 @@ export const projects = [
   },
   {
     title: 'LLM-Powered Intelligent Recommendation Engine & Sales Prediction',
-    period: 'May 2025',
+    period: 'February 2025',
     bullets: [
       'Vector-based recommendation engine using LLMs across 6,810 books; 30% lower retrieval latency, 35% higher accuracy.',
       'Analyzed 1.2M+ words with AI-driven text classification and sentiment analysis; 92% accuracy in emotional insight detection.',
