@@ -1,6 +1,6 @@
 export const projects = [
   {
-    title: 'Middle America Job Search Agent',
+    title: 'Job Search Agent',
     period: 'March 2026',
     bullets: [
       'Autonomous AI agent for job searching with multi-source scraping (LinkedIn, Indeed, Greenhouse) and intelligent filtering.',

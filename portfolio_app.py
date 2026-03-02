@@ -215,7 +215,7 @@ with st.container():
     <div class="section">
         <h2>Projects</h2>
         
-        <h3>Middle America Job Search Agent</h3>
+        <h3>Job Search Agent</h3>
         <p><em>March 2026</em></p>
         <ul>
             <li>Autonomous AI agent for job searching with multi-source scraping (LinkedIn, Indeed, Greenhouse) and intelligent filtering</li>
