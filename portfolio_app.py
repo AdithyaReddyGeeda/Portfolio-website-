@@ -185,15 +185,23 @@ with st.container():
         <h2>Experience</h2>
         
         <h3>Data Science Intern — Tavant Technologies, Hyderabad, India</h3>
-        <p><em>GPT Responsiveness · Sep 2023 – May 2024</em></p>
+        <p><em>September 2023 – April 2024</em></p>
         <ul>
             <li>Developed interactive client demo modules and improved GPT-4 prompt engineering, increasing response accuracy by <strong>15%</strong></li>
             <li>Built responsive dashboards for GPT-4 performance metrics and real-time monitoring</li>
             <li>Optimized prompts for a more reliable product experience</li>
         </ul>
         
-        <h3>Research Intern — SRM University, India</h3>
-        <p><em>Strategies for Preparation of Exhaustive Datasets · Jan 2023 – May 2023</em></p>
+        <h3>Research Intern (Team Lead) — SRM University, Amaravathi, India</h3>
+        <p><em>January 2023 – May 2023</em></p>
+        <ul>
+            <li>Led a team to build brain tumor detection system using ResNet and VGG16, delivered <strong>97%</strong> accuracy</li>
+            <li>Curated and labelled 800+ MRI datasets, applying advanced preprocessing for noise reduction and intensity normalization</li>
+            <li>Generated exceptional performance metrics: precision 1.0, sensitivity 0.95, misclassification rate 2.5%</li>
+        </ul>
+        
+        <h3>Research Intern — SRM University, Amaravathi, India</h3>
+        <p><em>August 2022 – December 2022</em></p>
         <ul>
             <li>Constructed a comprehensive Bollywood songs dataset from YouTube using systematic frame extraction</li>
             <li>Collaborated on data gathering, literature review, and coding to support further research</li>
