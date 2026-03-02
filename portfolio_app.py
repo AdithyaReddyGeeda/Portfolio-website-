@@ -215,6 +215,16 @@ with st.container():
     <div class="section">
         <h2>Projects</h2>
         
+        <h3>Middle America Job Search Agent</h3>
+        <p><em>March 2026</em></p>
+        <ul>
+            <li>Autonomous AI agent for job searching with multi-source scraping (LinkedIn, Indeed, Greenhouse) and intelligent filtering</li>
+            <li>FAANG+ blacklist (40+ companies) and startup exclusion using heuristic detection; location-based filtering</li>
+            <li>AI-powered job ranking (0-100% match score) based on skills, title, location, and experience</li>
+            <li>Automated resume tailoring and cover letter generation with ATS optimization</li>
+            <li>Full-stack React + FastAPI dashboard with dark mode, search history, and PDF resume parsing</li>
+        </ul>
+        
         <h3>Multilingual NLU — Joint Intent Classification & Slot Filling</h3>
         <p><em>Dec 2025</em></p>
         <ul>

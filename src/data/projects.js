@@ -1,5 +1,21 @@
 export const projects = [
   {
+    title: 'Middle America Job Search Agent',
+    period: 'March 2026',
+    bullets: [
+      'Autonomous AI agent for job searching with multi-source scraping (LinkedIn, Indeed, Greenhouse) and intelligent filtering.',
+      'FAANG+ blacklist (40+ companies) and startup exclusion using heuristic detection; location-based filtering for targeted searches.',
+      'AI-powered job ranking (0-100% match score) based on skills, title, location, and experience with profile matching.',
+      'Automated resume tailoring and cover letter generation with ATS optimization; hiring simulation and bias analysis.',
+      'Full-stack React + FastAPI dashboard with dark mode, search history, application tracking, and PDF resume parsing.',
+    ],
+    links: {
+      code: 'https://github.com/AdithyaReddyGeeda/Linkedin-job-scraper',
+      demo: null,
+    },
+    tags: ['Python', 'FastAPI', 'React', 'BeautifulSoup', 'OpenAI', 'Tailwind CSS'],
+  },
+  {
     title: 'Multilingual NLU — Joint Intent Classification & Slot Filling',
     period: 'December 2025',
     bullets: [
