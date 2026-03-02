@@ -184,16 +184,8 @@ with st.container():
     <div class="section">
         <h2>Experience</h2>
         
-        <h3>Research Intern (Team Lead) — SRM University, India</h3>
-        <p><em>Brain Tumor Detection · Jan 2024 – Apr 2024</em></p>
-        <ul>
-            <li>Led a team to build a brain tumor detection system using ResNet and VGG16, achieving <strong>97% accuracy</strong></li>
-            <li>Curated and labelled 800+ MRI datasets with advanced preprocessing (noise reduction, intensity normalization)</li>
-            <li>Delivered precision 1.0, sensitivity 0.95, and misclassification rate of 2.5%</li>
-        </ul>
-        
         <h3>Data Science Intern — Tavant Technologies, Hyderabad, India</h3>
-        <p><em>GPT Responsiveness · Sep 2023 – Dec 2023</em></p>
+        <p><em>GPT Responsiveness · Sep 2023 – May 2024</em></p>
         <ul>
             <li>Developed interactive client demo modules and improved GPT-4 prompt engineering, increasing response accuracy by <strong>15%</strong></li>
             <li>Built responsive dashboards for GPT-4 performance metrics and real-time monitoring</li>
