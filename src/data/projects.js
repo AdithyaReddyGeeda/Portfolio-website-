@@ -87,4 +87,31 @@ export const projects = [
     },
     tags: ['LLM', 'Gradio', 'Python', 'NLP'],
   },
+  {
+    title: 'F1-prediction — Quali & Race Simulator',
+    bullets: [
+      'Streamlit dashboard for Formula 1 qualifying and race order prediction using FastF1.',
+      'Race model with XGBoost (with heuristic fallbacks) and automatic season fallback when data is missing.',
+      'Predicts qualifying order (1–22) and uses it as the starting grid for race predictions (or supports manual override).',
+      'Weather-aware simulations (Dry/Wet/Rain) and prediction-vs-actual analysis with MAE for completed races.',
+    ],
+    links: {
+      code: 'https://github.com/AdithyaReddyGeeda/F1-prediction.git',
+      demo: null,
+    },
+    tags: ['Python', 'FastF1', 'Streamlit', 'XGBoost', 'Machine Learning'],
+  },
+  {
+    title: 'Multi-Agent Research Assistant',
+    bullets: [
+      'Architected a 5-agent LangGraph pipeline (Planner → parallel Search × 3 → Summarizer → Critic → Synthesizer) with shared TypedDict state, conditional critic loop, and ThreadPoolExecutor parallel search across DuckDuckGo sub-queries — fully local via Ollama LLaMA 3.2, zero API cost.',
+      'Implemented a Planner agent that decomposes any research query into 3 focused sub-queries (background, current state, future outlook) using structured JSON output with fallback parsing; parallel search reduces retrieval time by ~3×.',
+      'Deployed end-to-end as a FastAPI backend plus a custom academic-themed Streamlit dashboard with real-time agent animation, 5-tab results view (Report / Plan / Sources / Logs / Critique), .md export, and Docker support.',
+    ],
+    links: {
+      code: 'https://github.com/AdithyaReddyGeeda/Multi-agent-Research-Assistant.git',
+      demo: null,
+    },
+    tags: ['LangGraph', 'LangChain', 'Ollama', 'FastAPI', 'Streamlit', 'Python'],
+  },
 ];

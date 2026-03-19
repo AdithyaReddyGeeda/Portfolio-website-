@@ -102,9 +102,11 @@ const Projects = () => {
                     >
                       {proj.title}
                     </motion.h3>
-                    <p className="mt-1 text-xs text-muted-foreground">
-                      <strong>Period:</strong> {proj.period}
-                    </p>
+                    {proj.period && (
+                      <p className="mt-1 text-xs text-muted-foreground">
+                        <strong>Period:</strong> {proj.period}
+                      </p>
+                    )}
                   </div>
                   <Dialog.Root>
                     <Dialog.Trigger asChild>
